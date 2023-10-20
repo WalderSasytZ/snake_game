@@ -2,6 +2,7 @@ import tkinter as tk
 import random
 import json
 
+
 WIDTH = 30
 HEIGHT = 20
 SEG_SIZE = 20
